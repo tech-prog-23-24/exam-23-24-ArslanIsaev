@@ -1,3 +1,6 @@
+Ссылка на образ: https://hub.docker.com/r/arslanisaev/qt-tcp-server
+
+
 241-327 Isaev Arslan Eflatanovich
 В качестве исходного образа взять fedora:36
 Добавить комментарий (# QT TCP Server (Fedora-based))
