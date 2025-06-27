@@ -1,4 +1,8 @@
 Ссылка на образ: https://hub.docker.com/r/arslanisaev/qt-tcp-server
+Комнады: docker pull arslanisaev/qt-tcp-server:fedora-36
+docker run -d -p 65432:65432 --name qt-server arslanisaev/qt-tcp-server:fedora-36
+Telnet localhost 65432
+
 
 
 241-327 Isaev Arslan Eflatanovich
